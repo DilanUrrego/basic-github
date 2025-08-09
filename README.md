@@ -1,2 +1,2 @@
 # basic-github
-## basic github example
+basic github example
